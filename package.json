@@ -1,0 +1,27 @@
+{
+  "name": "brainrotjs",
+  "version": "0.0.1",
+  "description": "A Simple easy to use programming language which uses brainrot terms",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/whirlxd/brainrotjs"
+  },
+  "keywords": [
+    "language",
+    "brainrot"
+  ],
+  "author": "whirlxd",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "brainrotjs": "^0.0.1"
+  }
+}
